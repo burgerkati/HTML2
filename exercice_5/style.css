@@ -1,0 +1,24 @@
+/*External stylesheet pour exercice_5 partie 2 formulaire*/
+h1{
+  margin-left: 20px;
+  padding-top: 15px;
+}
+form {
+  margin-top:10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
+  height: auto;
+  width: 22%;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #BAA19C;
+  box-shadow: 6px 6px 0px black;
+}
+.nom, .prénom, .adresse, .téléphone, .password, .button {
+  padding-top: 10px;
+}

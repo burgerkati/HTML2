@@ -1,0 +1,9 @@
+/* External style sheet for exercice_3 tableau 5 colonnes 20 élèves*/
+table {
+  border: solid;
+  font-size: 20px;
+}
+td, th {
+  border: 1px solid;
+  font-family: helvetica;
+}
